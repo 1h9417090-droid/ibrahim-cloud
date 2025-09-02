@@ -1,6 +1,6 @@
 import { Handler } from '@netlify/functions'
 import { MongoClient } from 'mongodb'
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcryptjs'
 
 const mongoURI = 'mongodb+srv://sehx0190_db_user:Sanad$sa19971997@cluster0.yselhek.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 

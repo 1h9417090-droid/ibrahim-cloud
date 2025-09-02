@@ -10,7 +10,7 @@
   "dependencies": {
     "@netlify/functions": "^2.0.0",
     "mongodb": "^6.0.0",
-    "bcrypt": "^5.1.0"
+    "bcryptjs": "^2.4.3"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
